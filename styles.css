@@ -1,0 +1,48 @@
+/* add your CSS here */
+.card {
+    border: 2px;
+    background-color: #D9BE46;
+    width: 320px;
+    margin: auto;
+    padding: 10px;
+    border:2px solid black;
+    /* box-shadow: 10px solid black; */
+    justify-content: center;
+    box-shadow: 5px 20px 10px 0 #888888;
+    border-radius: 2%;
+    
+
+}
+
+.card-body {
+    border-color: black;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-image {
+    width: 300px;
+    padding: 10px;  
+}
+
+.card-header {
+    border: 5px;
+    padding: 5px 10px 5px;
+}
+
+.facts {
+    font-style: italic;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.card-list {
+    list-style-type: none;
+    padding: 5px;
+    border: 1px  dotted black;
+    background-color: #4660D9;
+    
+}
